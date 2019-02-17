@@ -1,0 +1,17 @@
+/* All of your CSS goes below */
+
+.margin50 {
+    margin-top: 50px;
+}
+.margin10right {
+    margin-right: 10px;
+}
+
+.jumbo-home {
+    background-image: url('../img/nvidia-developer-rapids-banner-1145x220_FINAL.jpg');
+    background-size: cover;
+    min-height: 300px;
+}
+.bg-black{
+    background-color: #111111;
+}

@@ -39,7 +39,7 @@ You will need to clone this [repo](https://github.com/ideascomealive/cep-engr-ap
 10. Open up the project with your code editor.
 
 ## Core Instructions
-
+ 
  For an example project, check out example.gif in the root directory.
 
  All of your files are in the `src` directory. You'll see that you have one file for HTML, one for CSS, and one for JavaScript. You also have an `img` directory to store any images that you use.
